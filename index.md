@@ -12,9 +12,28 @@ theme: jekyll-theme-cayman  # Change theme if needed
 
 I'm a master in the Department of Information Management and Finance at National Yang Ming Chiao Tung University (NYCU). 
 
-💻 GitHub: [venteng](https://github.com/venteng)  
-✉️ Email: @gmail.com  
-
-🔗 [More about me](https://venteng.github.io/bio.html)
+💻 GitHub: [Megan Chen](https://github.com/11mei)  
+✉️ Email: yimeiii0320.mg13@nycu.edu.tw  
 
 ---
+
+## 📌 Research Highlights
+- LLM
+
+---
+
+## 💡MBTI
+ENFJ
+
+---
+## 🎓 Education
+
+### National Yang Ming Chiao Tung University ([NYCU](https://www.nycu.edu.tw/nycu/ch/index))
+
+- MS in Financial Engineering ([🔗](https://imf.nycu.edu.tw/)) 
+  - Adviser: [Prof. Tian-Shyr, Dai](https://finance.lab.nycu.edu.tw/) 
+
+### Soochow University ([SCU](https://www.scu.edu.tw/))
+- UG in Financial Engineering and Actuarial Mathematics  
+
+
